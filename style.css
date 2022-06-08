@@ -1,0 +1,35 @@
+body
+{
+background-size: cover;
+}
+.btn {
+    font-family: "Smokum", cursive;
+    letter-spacing: 5px;
+}
+.heading {
+    width: 100%;
+    margin: 0;
+    font-family: "Smokum", cursive;
+    letter-spacing: 5px;
+}
+.modal-dialog {
+    width: 90%;
+}
+.copy_right_footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-size: 30px;
+    float: center;
+    background-color: red;
+    color: white;
+    font-family: "Smokum", cursive;
+    letter-spacing: 5px;
+    padding: 5px;
+}
+.modal-body {
+    font-size: 23px;
+    text-align: left;
+    padding-left: 20px;
+    font-weight: bolder;
+}
